@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ISGF-React-Page/static/css/main.16b520a1.chunk.css",
+    "main.js": "/ISGF-React-Page/static/js/main.3f62a730.chunk.js",
+    "main.js.map": "/ISGF-React-Page/static/js/main.3f62a730.chunk.js.map",
+    "runtime-main.js": "/ISGF-React-Page/static/js/runtime-main.e3b57987.js",
+    "runtime-main.js.map": "/ISGF-React-Page/static/js/runtime-main.e3b57987.js.map",
+    "static/css/2.9082872e.chunk.css": "/ISGF-React-Page/static/css/2.9082872e.chunk.css",
+    "static/js/2.c9111eee.chunk.js": "/ISGF-React-Page/static/js/2.c9111eee.chunk.js",
+    "static/js/2.c9111eee.chunk.js.map": "/ISGF-React-Page/static/js/2.c9111eee.chunk.js.map",
+    "index.html": "/ISGF-React-Page/index.html",
+    "static/css/2.9082872e.chunk.css.map": "/ISGF-React-Page/static/css/2.9082872e.chunk.css.map",
+    "static/css/main.16b520a1.chunk.css.map": "/ISGF-React-Page/static/css/main.16b520a1.chunk.css.map",
+    "static/js/2.c9111eee.chunk.js.LICENSE.txt": "/ISGF-React-Page/static/js/2.c9111eee.chunk.js.LICENSE.txt",
+    "static/media/ABB.577a86ab.png": "/ISGF-React-Page/static/media/ABB.577a86ab.png",
+    "static/media/EVehicle.jpg.2547157f.jpg": "/ISGF-React-Page/static/media/EVehicle.jpg.2547157f.jpg",
+    "static/media/Grid.jpg.9f1bc13a.jpg": "/ISGF-React-Page/static/media/Grid.jpg.9f1bc13a.jpg",
+    "static/media/ISGFcourse.e7040265.jpg": "/ISGF-React-Page/static/media/ISGFcourse.e7040265.jpg",
+    "static/media/Linkedin.83ac3905.jpg": "/ISGF-React-Page/static/media/Linkedin.83ac3905.jpg",
+    "static/media/Main.e8720bcc.jpg": "/ISGF-React-Page/static/media/Main.e8720bcc.jpg",
+    "static/media/Metering.jpg.61c3b295.jpg": "/ISGF-React-Page/static/media/Metering.jpg.61c3b295.jpg",
+    "static/media/Microgrid.jpg.dc37f35d.jpeg": "/ISGF-React-Page/static/media/Microgrid.jpg.dc37f35d.jpeg",
+    "static/media/REnergy.jpg.47857d03.jpeg": "/ISGF-React-Page/static/media/REnergy.jpg.47857d03.jpeg",
+    "static/media/calender.fed05b8d.JPG": "/ISGF-React-Page/static/media/calender.fed05b8d.JPG",
+    "static/media/logbar.f50e2365.JPG": "/ISGF-React-Page/static/media/logbar.f50e2365.JPG",
+    "static/media/mail.cd7c471b.jpg": "/ISGF-React-Page/static/media/mail.cd7c471b.jpg",
+    "static/media/solarpic.4807df75.jpg": "/ISGF-React-Page/static/media/solarpic.4807df75.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3b57987.js",
+    "static/css/2.9082872e.chunk.css",
+    "static/js/2.c9111eee.chunk.js",
+    "static/css/main.16b520a1.chunk.css",
+    "static/js/main.3f62a730.chunk.js"
+  ]
+}
